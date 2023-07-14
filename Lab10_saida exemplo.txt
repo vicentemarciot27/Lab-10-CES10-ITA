@@ -1,0 +1,65 @@
+Com o teste do enunciado, as respostas sao as seguintes.
+
+----------------------------------
+a) Classificados no vestibular
+-----------------------------------
+
+Sub-lista Computacao:
+
+    Carrie Ann Moss
+    Silvio Silveira Silva
+    Young Cho Hwang
+
+        Numero de classificados: 3
+        Vagas remanescentes:     7
+
+Sub-lista Astronomia:
+
+        Numero de classificados: 0
+        Vagas remanescentes:     20
+
+Sub-lista Turismo:
+
+    Forrest Gump
+    Mickey Mouse             
+
+        Numero de classificados: 2
+        Vagas remanescentes:     43
+
+-----------------------------------
+b) Pontuacao geral
+-----------------------------------
+
+Posicao       Nome                   Nota
+
+    1    Mickey Mouse                 9.8
+    2    Carrie Ann Moss              5.2
+    3    Young Cho Hwang              5.0
+    4    Silvio Silveira Silva        4.2
+    5    Keanu Reaves                 2.6
+    6    Carlos Lopes                 1.8
+    7    Andy Wachowski               1.6
+    8    Forrest Gump                 1.6
+    9    Ivete Sangalo                1.6
+   10    Albert Einstein              1.2
+   11    Rosa Mota                    1.0
+
+-----------------------------------
+c) Relatorio completo
+-----------------------------------
+
+ Num.          Nome                   Curso    Nota   Situacao
+
+ 1905  Albert Einstein             Astronomia   1.2  reprovado
+   13  Andy Wachowski              Computacao   1.6  reprovado
+ 1900  Beto Caroteno               Computacao   0.0  ausente
+  123  Carlos Lopes                Computacao   1.8  reprovado
+  303  Carrie Ann Moss             Computacao   5.2  classificado
+ 4321  Forrest Gump                Turismo      1.6  classificado
+  987  Ivete Sangalo               Astronomia   1.6  reprovado
+  789  Jose dos Campos             Astronomia   0.0  ausente
+  101  Keanu Reaves                Computacao   2.6  reprovado
+ 1001  Mickey Mouse                Turismo      9.8  classificado
+  321  Rosa Mota                   Computacao   1.0  reprovado
+ 1896  Silvio Silveira Silva       Computacao   4.2  classificado
+    5  Young Cho Hwang             Computacao   5.0  classificado

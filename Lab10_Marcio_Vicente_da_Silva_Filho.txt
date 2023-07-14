@@ -1,0 +1,210 @@
+New day shines, fallen angels will arise
+Nova Era brings the ashes back to life
+----------------------------------
+a) Classificados no vestibular
+-----------------------------------
+
+Sub-lista Computacao:
+
+         Beto Caroteno           
+         Carlos Lopes            
+         David Copperfield       
+         Ellen DeGeneres         
+         Jennifer Lawrence       
+         Keanu Reaves            
+         Robert De Niro          
+         Robert Smith            
+         Rosa Mota               
+         Tom Hanks               
+
+		Numero de classificados: 10
+		Vagas remanescentes:     0
+
+Sub-lista Astronomia:
+
+         Albert Smith            
+         Angelina Jolie          
+         Brad Pitt               
+         Cameron Diaz            
+         Cate Blanchett          
+         Emma Stone              
+         Emma Watson             
+         Hugh Jackman            
+         Jose dos Campos         
+         Lady Gaga               
+         Leonardo da Vinci       
+         Taylor Swift            
+		Numero de classificados: 12
+		Vagas remanescentes:     8
+
+Sub-lista Turismo:
+
+         Angelina Jolie          
+         Brad Pitt               
+         Charlize Theron         
+         David Beckham           
+         Forrest Gump            
+         George Clooney          
+         Jennifer Lopez          
+         Johnny Depp             
+         Julia Roberts           
+         Madonna                 
+         Mickey Mouse            
+         Robert Downey Jr.       
+         Samuel L. Jackson       
+         Will Smith              
+
+		Numero de classificados: 14
+		Vagas remanescentes:     31
+
+----------------------------------
+b) Pontuacao Geral
+-----------------------------------
+
+Posicao       Nome                   Nota
+     1         Carlos Lopes             10.0
+     2         Rosa Mota                10.0
+     3         Forrest Gump             10.0
+     4         Beto Caroteno            10.0
+     5         Jose dos Campos          10.0
+     6         Keanu Reaves             10.0
+     7         Mickey Mouse             10.0
+     8         Julia Roberts            10.0
+     9         David Beckham            10.0
+    10         Emma Watson              10.0
+    11         Leonardo da Vinci        10.0
+    12         Robert Smith             10.0
+    13         Jennifer Lopez           10.0
+    14         Taylor Swift             10.0
+    15         Tom Hanks                10.0
+    16         Johnny Depp              10.0
+    17         Albert Smith             10.0
+    18         David Copperfield        10.0
+    19         Angelina Jolie           10.0
+    20         Brad Pitt                10.0
+    21         Robert De Niro           10.0
+    22         Will Smith               10.0
+    23         Jennifer Lawrence        10.0
+    24         Lady Gaga                10.0
+    25         Samuel L. Jackson        10.0
+    26         Cate Blanchett           10.0
+    27         Ellen DeGeneres          10.0
+    28         George Clooney           10.0
+    29         Sandra Bullock           10.0
+    30         Hugh Jackman             10.0
+    31         Charlize Theron          10.0
+    32         Matthew McConaughey      10.0
+    33         Emma Stone               10.0
+    34         Angelina Jolie           10.0
+    35         Brad Pitt                10.0
+    36         Cameron Diaz             10.0
+    37         Robert Downey Jr.        10.0
+    38         Silvio Silveira Silva    2.4
+    39         Albert Einstein          2.4
+    40         Michael Jackson          2.4
+    41         Madonna                  2.4
+    42         Carrie Ann Moss          2.0
+    43         Adele                    2.0
+    44         Katy Perry               2.0
+    45         Young Cho Hwang          1.4
+    46         Ivete Sangalo            1.4
+    47         Andy Wachowski           1.4
+    48         Cristiano Ronaldo        1.4
+    49         Johnny Depp              1.4
+    50         Jennifer Aniston         1.4
+    51         Serena Williams          0.0
+    52         Scarlett Johansson       0.0
+    53         Daniel Radcliffe         0.0
+    54         Bruce Willis             0.0
+    55         Natalie Portman          0.0
+    56         Ryan Reynolds            0.0
+    57         Jessica Alba             0.0
+    58         Sandra Bullock           0.0
+    59         Tom Cruise               0.0
+    60         Julia Roberts            0.0
+    61         Leonardo DiCaprio        0.0
+    62         Jennifer Lawrence        0.0
+    63         Emma Watson              0.0
+    64         Chris Hemsworth          0.0
+    65         Anne Hathaway            0.0
+    66         Will Ferrell             0.0
+    67         Natalie Portman          0.0
+    68         Dwayne Johnson           0.0
+    69         Jennifer Garner          0.0
+    70         Kate Winslet             0.0
+----------------------------------
+c) Relatorio completo
+-----------------------------------
+
+ Num.          Nome                   Curso    Nota   Situacao
+
+  888      Adele                    Astronomia   2.0   reprovado
+ 1905      Albert Einstein          Astronomia   2.4   reprovado
+ 2222      Albert Smith             Astronomia   10.0   classificado
+   13      Andy Wachowski           Computacao   1.4   reprovado
+ 5555      Angelina Jolie           Astronomia   10.0   classificado
+ 7654      Angelina Jolie           Turismo      10.0   classificado
+ 6543      Anne Hathaway            Turismo      0.0   reprovado
+ 1900      Beto Caroteno            Computacao   10.0   classificado
+ 4444      Brad Pitt                Turismo      10.0   classificado
+ 9876      Brad Pitt                Astronomia   10.0   classificado
+ 3456      Bruce Willis             Turismo      0.0   reprovado
+ 3210      Cameron Diaz             Astronomia   10.0   classificado
+  123      Carlos Lopes             Computacao   10.0   classificado
+  303      Carrie Ann Moss          Computacao   2.0   reprovado
+ 4443      Cate Blanchett           Astronomia   10.0   classificado
+ 5432      Charlize Theron          Turismo      10.0   classificado
+ 5432      Chris Hemsworth          Astronomia   0.0   reprovado
+  777      Cristiano Ronaldo        Astronomia   1.4   reprovado
+ 5678      Daniel Radcliffe         Computacao   0.0   reprovado
+  234      David Beckham            Turismo      10.0   classificado
+ 6666      David Copperfield        Computacao   10.0   classificado
+ 9876      Dwayne Johnson           Turismo      0.0   reprovado
+ 5554      Ellen DeGeneres          Computacao   10.0   classificado
+ 5431      Emma Stone               Astronomia   10.0   classificado
+ 5678      Emma Watson              Astronomia   10.0   classificado
+ 3456      Emma Watson              Computacao   0.0   reprovado
+ 4321      Forrest Gump             Turismo      10.0   classificado
+ 7890      George Clooney           Turismo      10.0   classificado
+ 2345      Hugh Jackman             Astronomia   10.0   classificado
+  987      Ivete Sangalo            Astronomia   1.4   reprovado
+ 8765      Jennifer Aniston         Computacao   1.4   reprovado
+ 8765      Jennifer Garner          Computacao   0.0   reprovado
+ 9999      Jennifer Lawrence        Computacao   10.0   classificado
+ 4321      Jennifer Lawrence        Computacao   0.0   reprovado
+  222      Jennifer Lopez           Turismo      10.0   classificado
+ 4321      Jessica Alba             Computacao   0.0   reprovado
+ 6789      Johnny Depp              Turismo      10.0   classificado
+ 6543      Johnny Depp              Astronomia   1.4   reprovado
+  789      Jose dos Campos          Astronomia   10.0   classificado
+  432      Julia Roberts            Turismo      10.0   classificado
+ 6543      Julia Roberts            Astronomia   0.0   reprovado
+ 7654      Kate Winslet             Astronomia   0.0   reprovado
+ 7777      Katy Perry               Computacao   2.0   reprovado
+  101      Keanu Reaves             Computacao   10.0   classificado
+ 1112      Lady Gaga                Astronomia   10.0   classificado
+ 5432      Leonardo DiCaprio        Turismo      0.0   reprovado
+  111      Leonardo da Vinci        Astronomia   10.0   classificado
+ 8888      Madonna                  Turismo      2.4   classificado
+ 6780      Matthew McConaughey      Computacao   10.0   espera
+  999      Michael Jackson          Computacao   2.4   reprovado
+ 1001      Mickey Mouse             Turismo      10.0   classificado
+ 6789      Natalie Portman          Astronomia   0.0   reprovado
+ 8765      Natalie Portman          Astronomia   0.0   reprovado
+ 3333      Robert De Niro           Computacao   10.0   classificado
+ 2109      Robert Downey Jr.        Turismo      10.0   classificado
+  456      Robert Smith             Computacao   10.0   classificado
+  321      Rosa Mota                Computacao   10.0   classificado
+ 6789      Ryan Reynolds            Turismo      0.0   reprovado
+ 9998      Samuel L. Jackson        Turismo      10.0   classificado
+ 8901      Sandra Bullock           Computacao   10.0   espera
+ 8765      Sandra Bullock           Turismo      0.0   reprovado
+ 2222      Scarlett Johansson       Astronomia   0.0   reprovado
+  987      Serena Williams          Turismo      0.0   reprovado
+ 1896      Silvio Silveira Silva    Computacao   2.4   reprovado
+ 3456      Taylor Swift             Astronomia   10.0   classificado
+ 7654      Tom Cruise               Computacao   0.0   reprovado
+ 1000      Tom Hanks                Computacao   10.0   classificado
+ 7654      Will Ferrell             Computacao   0.0   reprovado
+ 1111      Will Smith               Turismo      10.0   classificado
+    5      Young Cho Hwang          Computacao   1.4   reprovado

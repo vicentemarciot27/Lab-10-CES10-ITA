@@ -1,0 +1,79 @@
+MIT - Massassugs Institute of Technology
+Sistema Vestibular Automatizado
+
+==================================================
+Numero de candidatos inscritos: 70
+
+==================================================
+INSCRICAO     CANDIDATO             CURSO
+
+  123     Carlos Lopes                C
+  321     Rosa Mota                   C
+ 4321     Forrest Gump                T
+ 1896     Silvio Silveira Silva       C
+ 1900     Beto Caroteno               C
+    5     Young Cho Hwang             C
+  789     Jose dos Campos             A
+  987     Ivete Sangalo               A
+ 1905     Albert Einstein             A
+   13     Andy Wachowski              C
+  101     Keanu Reaves                C
+  303     Carrie Ann Moss             C
+ 1001     Mickey Mouse                T
+  432     Julia Roberts               T
+  234     David Beckham               T
+ 5678     Emma Watson                 A
+  111     Leonardo da Vinci           A
+  456     Robert Smith                C
+  222     Jennifer Lopez              T
+  777     Cristiano Ronaldo           A
+  987     Serena Williams             T
+  888     Adele                       A
+  999     Michael Jackson             C
+ 3456     Taylor Swift                A
+ 1000     Tom Hanks                   C
+ 6789     Johnny Depp                 T
+ 7777     Katy Perry                  C
+ 8888     Madonna                     T
+ 2222     Albert Smith                A
+ 6666     David Copperfield           C
+ 5555     Angelina Jolie              A
+ 4444     Brad Pitt                   T
+ 3333     Robert De Niro              C
+ 2222     Scarlett Johansson          A
+ 1111     Will Smith                  T
+ 9999     Jennifer Lawrence           C
+ 1112     Lady Gaga                   A
+ 9998     Samuel L. Jackson           T
+ 5678     Daniel Radcliffe            C
+ 4443     Cate Blanchett              A
+ 3456     Bruce Willis                T
+ 5554     Ellen DeGeneres             C
+ 6789     Natalie Portman             A
+ 7890     George Clooney              T
+ 8901     Sandra Bullock              C
+ 2345     Hugh Jackman                A
+ 5432     Charlize Theron             T
+ 6780     Matthew McConaughey         C
+ 5431     Emma Stone                  A
+ 6789     Ryan Reynolds               T
+ 4321     Jessica Alba                C
+ 6543     Johnny Depp                 A
+ 7654     Angelina Jolie              T
+ 8765     Jennifer Aniston            C
+ 9876     Brad Pitt                   A
+ 8765     Sandra Bullock              T
+ 7654     Tom Cruise                  C
+ 6543     Julia Roberts               A
+ 5432     Leonardo DiCaprio           T
+ 4321     Jennifer Lawrence           C
+ 3210     Cameron Diaz                A
+ 2109     Robert Downey Jr.           T
+ 3456     Emma Watson                 C
+ 5432     Chris Hemsworth             A
+ 6543     Anne Hathaway               T
+ 7654     Will Ferrell                C
+ 8765     Natalie Portman             A
+ 9876     Dwayne Johnson              T
+ 8765     Jennifer Garner             C
+ 7654     Kate Winslet                A

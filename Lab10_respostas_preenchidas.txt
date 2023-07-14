@@ -1,0 +1,20 @@
+MIT - Massassugs Institute of Technology
+Sistema Vestibular Automatizado
+
+============================================================
+Folhas de respostas recebidas: 11
+
+============================================================
+INSCRICAO              RESPOSTAS PREENCHIDAS
+
+ 1905     abcabcabcabcabceeeeeabcabcabcabcabceeeeeabcabcabcd
+  123     cccccccccccccccccccccccccccccccccccccccccccccccccc
+  101     cacacacacacacacacacacacacacacacacacacacacacacacaca
+ 4321     bebebabaedaddecabecabebebabaedaddecabec-bebe-abaed
+ 1001     acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcabe
+ 1896     aa--bb-c--eaaedccdbabeceabb---cccccdddddeeeeeeeeba
+  303     bebabebabeeaaedccdbabecebebabebabebabebabebaddcaba
+    5     babebabebaeaaedccdbabecebabebabebabebabebabeedcaee
+  987     cadababaecadabebecadababaecadabebecadababaecadabeb
+   13     aaaaaaaabbbbbbbbbcccccccccddddddddddeeeeeeee------
+  321     abcdeabcdeabcdeabcdeabcdeabcdeabcdeabcdeabcdeabcde

@@ -1,0 +1,14 @@
+MIT - Massassugs Institute of Technology
+Sistema Vestibular Automatizado
+
+==================================================
+               GABARITO OFICIAL
+
+acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcaba
+
+==================================================
+  CURSO          TOTAL VAGAS         NOTA MINIMA
+
+Computacao           10                 4.1
+Astronomia           20                 2.5
+Turismo              45                 1.1

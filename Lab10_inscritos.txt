@@ -1,0 +1,23 @@
+MIT - Massassugs Institute of Technology
+Sistema Vestibular Automatizado
+
+==================================================
+Numero de candidatos inscritos: 13
+
+==================================================
+INSCRICAO     CANDIDATO             CURSO
+
+  123     Carlos Lopes                C
+  321     Rosa Mota                   C
+ 4321     Forrest Gump                T
+ 1896     Silvio Silveira Silva       C
+ 1900     Beto Caroteno               C
+    5     Young Cho Hwang             C
+  789     Jose dos Campos             A
+  987     Ivete Sangalo               A
+ 1905     Albert Einstein             A
+   13     Andy Wachowski              C
+  101     Keanu Reaves                C
+  303     Carrie Ann Moss             C
+ 1001     Mickey Mouse                T
+ 
